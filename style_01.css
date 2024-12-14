@@ -8,6 +8,7 @@
     align-items: center;
     border-style: solid;
     border-radius: 5px;
+
 }
 #red{
     background-color: red;
@@ -20,10 +21,15 @@
 #yellow{
     background-color: yellow;
 }
+#white{
+    background-color: white;
+}
 .convas{
-    /* display: flex; */
+    
+    display: flex;
     text-align: center;
     justify-content: center;
+    height: 90vh;
     align-items: center;
 }
 h1{
